@@ -7,7 +7,7 @@ import win32clipboard
 import xlsxwriter
 http = httplib2.Http()
 
-result_url = "http://blv-sport.de/service/msonline/files/20145720-e.htm"
+result_url = "http://lg-telis-finanz.de/2014_sueddeutsche/download/sueddeutsche_2014-ergebnisse.html"
 
 print("Retrieving URL: "+result_url)
 
